@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: hsl(220, 15%, 55%);
+    background-color: #D5E1EF;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
@@ -20,7 +20,7 @@ body{
 main{
     height: 400px;
     width: 300px;
-    background-color: #D5E1EF;
+    background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     display: flex;
     flex-direction: column;
