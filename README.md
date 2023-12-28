@@ -25,4 +25,4 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Author
 
 - Frontend Mentor - [Suleman](https://www.frontendmentor.io/profile/suleman42244)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [amSuleman](https://www.twitter.com/amSuleman_)
