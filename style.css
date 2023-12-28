@@ -20,7 +20,7 @@ body{
 main{
     height: 400px;
     width: 300px;
-    background-color: hsl(0, 0%, 100%);
+    background-color: #D5E1EF;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
